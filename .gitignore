@@ -1,0 +1,18 @@
+# Output gerado pelo scraper
+eventos.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Debug dumps
+debug_*.html
+debug_*.json
+
+# OS
+.DS_Store
+Thumbs.db
